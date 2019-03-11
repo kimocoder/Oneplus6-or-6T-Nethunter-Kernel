@@ -12,7 +12,7 @@
 # 目录
 * [Install](#Install)
 * [更新历史](#更新历史)
-* [内核图片和视频演示DJY11-13](#1、DJY11-13)
+* [内核图片和视频演示DJY11-13](#1、内核图片和视频演示DJY11-13)
 * [DJY15](#2、DJY15_)
 * [DJY17-DJY19](#3、DJY17-DJY19)
 * [相关测试视频集合](#相关测试视频集合)
@@ -65,26 +65,32 @@ adb sideload DJY XXX.ZIP
 - [DJY18-DJY19] 添加openbts+c118 一键伪基站配置脚本，加入GSM Sniff WEB GUI界面 ###完成进度百分之70#####
 
 
-# 1、DJY11-13
+# 1、内核图片和视频演示DJY11-13
 C118
+
 ![pic](images/C118OSB.JPG)
 
 HID Attack
+
 ![pic](images/HIDAattackSupport.jpg)
 
 BluetoothattackSupport
+
 ![pic](images/BluetoothattackSupport.jpg)
 
 C118+osmcombb
+
 ![pic](images/C118OSB.JPG)
 
 mousejack
+
 ![pic](images/mousejackSupport.jpg)
 
 
 # 2、DJY15
 C118+osmcombb 一键配置脚本
-![pic](images/mousejackSupport.png)
+
+![pic](images/OSBGSMSniffSupport.png)
 
 # 3、DJY17-DJY19
 
