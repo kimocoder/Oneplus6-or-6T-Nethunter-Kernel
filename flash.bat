@@ -1,4 +1,3 @@
-#!/bin/bash
 fastboot erase boot_a
 fastboot erase boot_b
 fastboot erase system_a
