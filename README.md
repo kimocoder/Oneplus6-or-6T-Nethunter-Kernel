@@ -147,7 +147,7 @@ https://www.bilibili.com/video/av45942786
 http://www.bilibili.com/video/av45945899/
 
 - wifte和fluxion不能使用修复
-http://www.bilibili.com/video/av45974214/
+https://www.bilibili.com/video/av45973380
 
 - HID Aattack
 
@@ -181,7 +181,7 @@ service postgresql start
 exit
 bootkali
 ```
-5、如果WIFITE和fluxion不能正常使用参考 http://www.bilibili.com/video/av45974214/
+5、如果WIFITE和fluxion不能正常使用参考 https://www.bilibili.com/video/av45973380
 
 
 
@@ -263,3 +263,4 @@ https://gitlab.com/HolyAngel/op6
 kali linux QQ交流群：712420808 （欢迎各种大佬萌新进群吹水）
 
 电报群组：https://t.me/nethunter666
+如果你需要转载请注明出处谢谢.
