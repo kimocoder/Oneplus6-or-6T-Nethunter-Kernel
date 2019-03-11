@@ -19,7 +19,7 @@
 * [常见问题解决](#常见问题解决)
 * [文件md5和hash](#文件md5和hash)
 * [相关代码和模块感谢列表](#相关代码和模块感谢列表)
-
+* [联系方式](#联系方式)
 # Install
 
 1、到 https://twrp.me/ 下载与你设备相关的twrp，然后到 https://www.oneplus.com/support/softwareupgrade/ 选择你的设备下载系统（这里需要注意的是，国内用户需要**翻墙**才能下载OOS，为什么这里不推荐使用一加的HOS系统呢？因为HOS国内系统在某些权限功能上面做了一些限制，所以会出现某些命令和终端不能正常使用的现象，但是也是可以用的，就是不够完美，这里推荐使用OOS）
@@ -259,5 +259,7 @@ https://gitlab.com/HolyAngel/op6
 感谢@rithvikvibhu 感谢对Magisk WIFI模块做出的贡献
 
 
+# 联系方式
+kali linux QQ交流群：712420808 （欢迎各种大佬萌新进群吹水）
 
-
+电报群组：https://t.me/nethunter666
