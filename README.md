@@ -76,7 +76,7 @@ BluetoothattackSupport
 ![pic](images/BluetoothattackSupport.jpg)
 
 C118+osmcombb
-![pic](images/C118OSB.jpg)
+![pic](images/C118OSB.JPG)
 
 mousejack
 ![pic](images/mousejackSupport.jpg)
@@ -84,16 +84,16 @@ mousejack
 
 # 2、DJY15
 C118+osmcombb 一键配置脚本
-![pic](images/mousejackSupport.jpg)
+![pic](images/mousejackSupport.png)
 
 # 3、DJY17-DJY19
 
 Proxmark3 CDC驱动支持
 
-![pic](images/Proxmark3CDCSupport.jpg)
+![pic](images/Proxmark3CDCSupport.JPG)
 
 
-#相关测试视频集合
+# 相关测试视频集合
 - 蓝牙攻击
 http://www.bilibili.com/video/av45974214/
 
