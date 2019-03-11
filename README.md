@@ -42,7 +42,8 @@ adb sideload DJY XXX.ZIP
 第二种
 ![pic](images/install2.JPG)
 第三种
-![pic](images/install3.JPG)
+![pic](images/install3.jpg)
+
 ```
 这里需要注意的是如果你下载arm64，amd64，i386位版本的kalifs-full.tar.xz，你需要将包内文件名更改为armhf，如果不更改，那么nh终端和nethunter将无法识别和安装。内核已经内置了busybox1.31，所以不需要下载busybox安装器
 
