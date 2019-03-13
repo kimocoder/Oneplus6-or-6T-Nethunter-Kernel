@@ -66,10 +66,6 @@ adb sideload DJY XXX.ZIP
 
 
 # 内核图片和视频演示DJY11-13
-C118
-
-![pic](images/C118OSB.JPG)
-
 HID Attack
 
 ![pic](images/HIDAattackSupport.jpg)
