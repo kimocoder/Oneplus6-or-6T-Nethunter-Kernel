@@ -13,15 +13,15 @@ other languages: [Chinese](README.md)
 
 # table of Contents
 * [Install](#Install)
-* [Update History](#Update History)
-* [kernel picture and video demo DJY11-13](#kernel picture and video demo DJY11-13)
+* [Update History](#Update_History)
+* [kernel picture and video demo DJY11-13](#kernel_picture_and_video_demo_DJY11-13)
 * [DJY15+](#DJY15+)
 * [DJY17-DJY19](#DJY17-DJY19)
-* [Related test video collection](#Related test video collection)
+* [Related test video collection](#Related_test_video_collection)
 * [FAQ](#FAQ)
-* [File md5 and hash](#File md5 and hash)
-* [Related code and module thanks list](#Related code and module thanks list)
-* [Contact Information](#Contact Information)
+* [File md5 and hash](#File_md5_and_hash)
+* [Related code and module thanks list](#Related_code_and_module_thanks_list)
+* [Contact Information](#Contact_Information)
 
 # Install
 
@@ -54,7 +54,7 @@ Third
 Note here that if you download arm64, amd64, i386 bit version of kalifs-full.tar.xz, you need to change the file name in the package to armhf. If you don't change it, nh terminal and nethunter will not be recognized and installed. The kernel has built-in busybox1.31, so there is no need to download the busybox installer.
 
 ```
-# Update history
+# Update_History
 
 - [DJY0.1-DJY11] Fix many bugs, add HID attack support, add network card support, unlock mobile phone built-in AM/FM chip can receive AM/FM signal without using SDR, CP210x, FTDI, CH341 module. Unlock Bluetooth module support (Bluetooth attack), add the @simonpunk nethunter app usbarmy module, add and modify the @rithvikvibhu WIFI module for more support and fix support for the 9.0Pie system. Test system OP6T_O2_BETA_04
 
@@ -122,7 +122,7 @@ Proxmark3 CDC driver support
 
 ![pic](images/Proxmark3CDCSupport.JPG)
 
-# Related test video collection
+# Related_test_video_collection
 - Bluetooth attack
 http://www.bilibili.com/video/av45974214/
 
@@ -193,7 +193,7 @@ tar xvf kalifs-full.tar
 ```
 
 
-# File md5 and hash
+# File_md5_and_hash
 
 ```
 b4c66efc7fc076121997083a95bf8f96  com.google.zxing.client.android-4.7.7-107-1042.apk
@@ -252,7 +252,7 @@ c1f55f501b5c628199ca3c0b200bd8d7  Payload_Dumber_x64 -win.zip
 - If you find out that MD5 and Hash are compared not correct, pay attention to whether someone has modified and implanted a virus.
 
 
-# Related code and module thanks list
+# Related_code_and_module_thanks_list
 
 Thanks to @simonpunk for thrr support of HID patching. Related build code links used:
 
@@ -266,7 +266,7 @@ https://gitlab.com/HolyAngel/op6
 
 Thanks to @rithvikvibhu for the Magisk WIFI module
 
-# Contact information
+# Contact_Information
 Kali linux QQ chat number: 712420808 (Welcome everyone join and communite to us)
 
 Telegram group:https://t.me/nethunter666
