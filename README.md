@@ -14,7 +14,7 @@
 * [Install](#Install)
 * [更新历史](#更新历史)
 * [内核图片和视频演示DJY11-13](#内核图片和视频演示DJY11-13)
-* [DJY15+](#DJY15**+**)
+* [DJY15](#DJY15)
 * [DJY17-DJY19](#DJY17-DJY19)
 * [相关测试视频集合](#相关测试视频集合)
 * [常见问题解决](#常见问题解决)
@@ -109,7 +109,7 @@ Wireless2
 
 
 
-# DJY15**+**
+# DJY15
 C118+osmcombb 一键配置脚本
 
 ![pic](images/OSBGSMSniffSupport.png)
