@@ -1,7 +1,7 @@
 <div align=center><img src=images/LOGO.png width=100% ></div>
 
 
-#Foreword
+# Foreword
 
 Whatsup guys , this is a trash noob rookie geek(ID:DJY) from China , today I want to share my project to you guys within my truly heart and hope you will enjoy it. Nethunter Kernel is an oneplus 6 and 6T full function¡¯s patch kernel, support hackrf, RTL-SDR , mouse jack, osmcombb+C118+openbts(these are basically hardwares) , Bluetooth attack , external infrared module , external OTG cable run pppoe router password sniff , OTG external multiple wireless network cables RTX series, MT7601 series, ahk9 series and htc series). Proxmark3 CDC HID diver support, chameleon-Mini diver support. This project is totally open source , no need to pay for it, please notice becasue there are some bitches selling it now(xxeyes team), and also check the MD5 value and hash value. For compile and debug this kernel I¡¯ve brush the device for hundreds of times , to solve the problems such as: flash kernel can¡¯t be open , can¡¯t use abd shell , can not external USB sevices, black screen , stuck at first screen and so on. It¡¯s been a long time for test and if there is still having bug, welcome to report. If you think this is useful please please please give me a *** STAR***  , your support is my
 best motivation . ^ _ ^
