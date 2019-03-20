@@ -70,7 +70,7 @@ Note here that if you download arm64, amd64, i386 bit version of kalifs-full.tar
 
 - [DJY18-DJY19] Add openbts+c118 one-click pseudo base station configuration script, join GSM Sniff WEB GUI interface ###Complete progress percent 70#####
 
-# Kernel images and demo video for DJY11-13
+# kernel_picture_and_video_demo_DJY11-13
 HID Attack
 
 ![pic](images/HIDAattackSupport.jpg)
@@ -155,7 +155,7 @@ https://www.bilibili.com/video/av45943180
 
 * Welcome to submit test screenshots and videos
 
-# Common problems solution:
+# FAQ
 1、If the nethunter app and nh terminal use exceptions, please download OOS.
 
 2、If the magisk SafetyNet status check does not work properly, please restore the boot image and rebrush the magisk https://github.com/topjohnwu/Magisk/releases
