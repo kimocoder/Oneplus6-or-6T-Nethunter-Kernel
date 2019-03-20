@@ -15,14 +15,15 @@ other languages: [Chinese](README.md)
 * [Install](#Install)
 * [Update History](#Update History)
 * [kernel picture and video demo DJY11-13](#kernel picture and video demo DJY11-13)
-* [DJY15](#DJY15+)
+* [DJY15+](#DJY15+)
 * [DJY17-DJY19](#DJY17-DJY19)
-* [Related test video collection](# Related test video collection)
+* [Related test video collection](#Related test video collection)
 * [FAQ](#FAQ)
-* [file md5 and hash](#file md5 and hash)
+* [File md5 and hash](#File md5 and hash)
 * [Related code and module thanks list](#Related code and module thanks list)
 * [Contact Information](#Contact Information)
-#Install
+
+# Install
 
 1.You have to go to https://twrp.me/ download the twrp that relate to your device, and go to https://www.oneplus.com/support/softwareupgrade/ to choose your device download system(notice: the user in China have to get cross the firewall to download oos, why we don¡¯t suggest the One Plus¡¯s HOS system? Because HOS system in China are being limited on some permission functions, so there will be some commands or the terminal that can¡¯t be normal use , but it still works, but it won¡¯t be perfect, so there will be more prefer on oos)
 
@@ -251,7 +252,7 @@ c1f55f501b5c628199ca3c0b200bd8d7  Payload_Dumber_x64 -win.zip
 - If you find out that MD5 and Hash are compared not correct, pay attention to whether someone has modified and implanted a virus.
 
 
-# Relate coed and moudle list:
+# Related code and module thanks list
 
 Thanks to @simonpunk for thrr support of HID patching. Related build code links used:
 
