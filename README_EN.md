@@ -9,7 +9,7 @@ best motivation . ^ _ ^
 And I will add some ¡®special words¡¯ to some losers , I don¡¯t owe you anything, or you can just choose to don¡¯t use it, but don¡¯t be like a dickhead that attack me. This is open source , I free share it , but all you did are not even say thank to me and just make some nonsense shit around, some fuckers even made my  thousand people group(2 groups!) that banned , what can you get from these? I wanna say more but I don¡¯t want to waste my fucking time to these piece of shit, so FUCK YOU
 
 ****
-other languages: [Chinese](README_ZH.md)
+other languages: [Chinese](README.md)
 
 # table of Contents
 * [Install](#Install)
