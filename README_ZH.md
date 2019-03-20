@@ -8,12 +8,13 @@
 在这里我还要说一点，对于一些loser 傻逼，我想说我不欠你，你可以使用它，或者你可以选择不用，但不要像疯狗一样咬我。我免费分享给某些人用，你不但连句谢谢感激之类的话都没有（挡住某些人赚钱），你还要倒打一耙来骂我，贬低我，甚至还有些傻逼举报了我两个千人群聊，害我被封有意义吗？我在这里祝举报我的人生儿子没屁眼，喝水塞牙，每天都倒霉，还不起支付宝花呗，借呗，京东微贷，天天来大姨妈等等一系列倒霉事情。吃屎啦你！！！！！！
 
 ****
+其他语言(翻译来自@Noob-DaoXin 道心): [English](README_EN.md)
 
 # 目录
 * [Install](#Install)
 * [更新历史](#更新历史)
 * [内核图片和视频演示DJY11-13](#内核图片和视频演示DJY11-13)
-* [DJY15](#DJY15_)
+* [DJY15](#DJY15+)
 * [DJY17-DJY19](#DJY17-DJY19)
 * [相关测试视频集合](#相关测试视频集合)
 * [常见问题解决](#常见问题解决)
@@ -36,7 +37,7 @@ adb sideload DJY XXX.ZIP
 ```
 正确操作流程：twrp>下载OOS>payload_dumper payload.bin>flash.sh or bat>adb sideload DJY XXX.zip>重启>第一次打开magisk进行联网更新来通过SafetyNet 状态检查>重启>刷入我的WIFI模块>开始装逼使用
 ```
-6、关于刷入kalifs-full.tar.xz这里我推荐三种方法，第一第二种都是使用linux deploy来安装，第二种使用nethunter app安装。官方链接 https://build.nethunter.com/kalifs/kalifs-20190228/ 
+6、关于刷入kalifs-full.tar.xz这里我推荐三种方法，第一第二种都是使用linux deploy来安装，第三种使用nethunter app安装。官方链接 https://build.nethunter.com/kalifs/kalifs-20190228/ 
 第一种
 ![pic](images/install1.JPG)
 第二种
@@ -108,7 +109,7 @@ Wireless2
 
 
 
-# DJY15
+# DJY15+
 C118+osmcombb 一键配置脚本
 
 ![pic](images/OSBGSMSniffSupport.png)
@@ -146,7 +147,6 @@ http://www.bilibili.com/video/av45945899/
 https://www.bilibili.com/video/av45973380
 
 - HID Aattack
-
 https://www.bilibili.com/video/av43617250
 
 - 无线网卡722N
@@ -178,6 +178,19 @@ exit
 bootkali
 ```
 5、如果WIFITE和fluxion不能正常使用参考 https://www.bilibili.com/video/av45973380
+
+6、如果新版nethunter app 无法安装正常安装 kalifs-full.tar.xz 请参考以下代码，我会在有空的时候修复nethunter app：
+
+```
+adb push kalifs-full.tar.xz /sdcard/ 
+adb shell
+su
+mv /sdcard/kalifs-full.tar.xz /data/local/nhsystem/
+cd /data/local/nhsystem/
+xz -d kalifs-full.tar.xz
+tar xvf kalifs-full.tar
+
+```
 
 
 
@@ -244,6 +257,7 @@ c1f55f501b5c628199ca3c0b200bd8d7  Payload_Dumber_x64 -win.zip
 # 相关代码和模块感谢列表
 
 感谢@simonpunk 对HID修补的大力支持。用到的相关构建代码链接：
+
 https://github.com/simonpunk/nethunter-app
 
 https://github.com/pelya/android-keyboard-gadget
