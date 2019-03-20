@@ -15,7 +15,7 @@ other languages: [Chinese](README.md)
 * [Install](#Install)
 * [Update History](#Update_History)
 * [kernel picture and video demo DJY11-13](#kernel_picture_and_video_demo_DJY11-13)
-* [DJY15+](#DJY15+)
+* [DJY15+](#DJY15**+**)
 * [DJY17-DJY19](#DJY17-DJY19)
 * [Related test video collection](#Related_test_video_collection)
 * [FAQ](#FAQ)
@@ -111,7 +111,7 @@ Wireless2
 
 ![pic](images/Wireless2.jpg)
 
-# DJY15+
+# DJY15**+**
 C118+osmcomb  One-click configuration script
 
 ![pic](images/OSBGSMSniffSupport.png)
