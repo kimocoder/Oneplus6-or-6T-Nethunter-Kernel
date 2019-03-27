@@ -201,56 +201,37 @@ tar xvf kalifs-full.tar~~
 # md5sum
 
 ```
-b4c66efc7fc076121997083a95bf8f96  com.google.zxing.client.android-4.7.7-107-1042.apk
-411fb7a7439ef1db0be9f76bebb5c1d4  com.sonelli.juicessh_116_apps.evozi.com.apk
-70c26e550fc6bc0c1d76098d9dce43e4  linuxdeploy-2.2.1-243.apk
-201f288e4a3a27638828a367e106c720  marto.rtl_tcp_andro_20_apps.evozi.com.apk
-9b7b226a66c71179d93e291695f17c00  nethunter-app-Pie.apk
-686332a10c18d0e926ce7a6b338c3ef0  RFAnalyzer.apk
-3eacb5ae172f968f04ecb7ca79bb388e  shadowsocksr-release.apk
-5d2b490bc25056029d17ebd474da4587  Term-nh.apk
-6bd10e7ec862203e7fa1d3282c0d278d  USBKeyboard.apk
-9517c8f6df5d8569e8bea9c41d29adea  WiFi.apk
-
-4305f92439c517ca102e7546c2932d4d0b587cef  com.google.zxing.client.android-4.7.7-107-1042.apk
-5c388a3fdec49df7b19f8353270b41f4d2826225  com.sonelli.juicessh_116_apps.evozi.com.apk
-ef26fd6ffda89525e3f591dcda1b613aa0dcf8a5  linuxdeploy-2.2.1-243.apk
-205146887061c62e1a3fcfe60efb4665f153525d  marto.rtl_tcp_andro_20_apps.evozi.com.apk
-8989b8d2adec9030edd772eb2cfc691fb14b8f6a  nethunter-app-Pie.apk
-1d48c025e18eef1a9c69252bf2cfa3464f2d34bf  RFAnalyzer.apk
-0092d68ce07135d587d1d041550a65807bc939ea  shadowsocksr-release.apk
-
-8a4ae41b5ed727767cec9607e58e3ea53e9155af  Term-nh.apk
-cba3e89c8a3b3a43572d58f737bba53d928d4913  USBKeyboard.apk
-2847a4acf3f6022f98e95d630c10c5bbf05bf136  WiFi.apk
-
-
-a13cfb2dd89f8c4c34c7f74ba0032bb4  Wireless_Firmware_for_Nethunter-v4.0
-
-
-93abfd9bec69180ff5a08e85f4488075ffd40d86  Wireless_Firmware_for_Nethunter-v4.0
-
-79a75c5452327d151765bb698dc0e210  DJY Nethunter KernelV15.zip
-
-
-5130697b30db4ec8e6a2c1f456aa80e0729d8988  DJY Nethunter KernelV15.zip
-
-
-
-cdf3700352b8b08e99d34bda0dcf6271  busybox8£¨1.31£©
-
-
-9ce94e14952a6ecf444f67636e81b281cca5daf2  busybox8£¨1.31£©
-
-e09ea86bcb0eb8f30bc4bcc5703b2928  flash.bat
+abcca492a40a7a8559b28056c3cf348f  DJY15-3.zip
+327cc32315a3e059924a01298f662c0c  DJY-WIFI-firmware-APP-7.0-beta.zip
+ee63074fae0db4136c50b15a0d85a2ca  flash.bat
 e09ea86bcb0eb8f30bc4bcc5703b2928  flash.sh
 c1f55f501b5c628199ca3c0b200bd8d7  Payload_Dumber_x64 -win.zip
 94ee67ddc8ae426beb3a6f8a8e361191  payload_dumper-linux.zip
 
-9d315088a79a36ac08e29140bed21d1293205da1  flash.bat
-9d315088a79a36ac08e29140bed21d1293205da1  flash.sh
-542bd47de3e49848b7ba6ae4e07c7d07f45a40e7  Payload_Dumber_x64 -win.zip
-7c97f484ce3c2b9174d107572f0e420b566643dc  payload_dumper-linux.zip
+5deaffc43baa6c62c92719d0342cfd45  andprox-2.0.4.apk
+a9e233213fabc47e60c982ce20215e4f  bs.Avare.ADSB_80_apps.evozi.com.apk
+106ccb9b94016d55bc9f648047a84dc6  com.comthings.pandwarf_10239_apps.evozi.com.apk
+3e3b7c5380a2650ebbbe9765d0ec2827  com.google.zxing.client.android-4.7.7-107-1042.apk
+4d3e96fb430f5b6b3ff7783ca112f404  com.sdr_labs.sdroid_1307_apps.evozi.com.apk
+806e607a7e8b798ca8a659d02e625610  com.softwarebakery.drivedroid_105000_apps.evozi.com.apk
+411fb7a7439ef1db0be9f76bebb5c1d4  com.sonelli.juicessh_116_apps.evozi.com.apk
+6d9913ad3fb1d7442ed6c55809f2a501  cSploit-nightly.apk
+40ba3df5392e191038ae64d393ffdd13  linuxdeploy-2.2.1-243.apk
+015ce640b07bec8a81e0daca25f88cc7  LuckyPatchers.com_Official_V8.2.3.apk
+f6fd10fe6fd6aaec5361ba57e61e66dc  marto.androsdr2_39_apps.evozi.com.apk
+201f288e4a3a27638828a367e106c720  marto.rtl_tcp_andro_20_apps.evozi.com.apk
+c0f9a8a5861aadd4a325ab9374568f12  nethunter-app-Pie.apk
+0582c876a40cde26525dd3bc02694da8  org.hak5.pineappleconnector_2_apps.evozi.com.apk
+686332a10c18d0e926ce7a6b338c3ef0  RFAnalyzer.apk
+3eacb5ae172f968f04ecb7ca79bb388e  shadowsocksr-release.apk
+5e1c03901f7f04bc1c9f458b721b8760  Term-nh.apk
+6bd10e7ec862203e7fa1d3282c0d278d  USBKeyboard.apk
+9517c8f6df5d8569e8bea9c41d29adea  WiFi.apk
+5292442051bf19b2c0f67fcdbfd9f9e8  zAnti3.18.apk
+
+c8295ecd5932cad08c3dfbb9bfce6394  bootanimation.zip(开机动画，有需要更改的可以自己替换)
+
+d504130c72d92213e8f464511a47abe9  busybox8（1.32）
 
 
 ```
