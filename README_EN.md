@@ -19,7 +19,7 @@ other languages: [Chinese](README.md)
 * [DJY17-DJY19](#DJY17-DJY19)
 * [Related test video collection](#Related_test_video_collection)
 * [FAQ](#FAQ)
-* [File md5 and hash](#File_md5_and_hash)
+* [md5sum](#md5sum)
 * [Related code and module thanks list](#Related_code_and_module_thanks_list)
 * [Contact Information](#Contact_Information)
 
@@ -68,7 +68,12 @@ Note here that if you download arm64, amd64, i386 bit version of kalifs-full.tar
 
 - [DJY17-DJY18] Add pppoe USB external driver to increase the function of sniffing router pppoe password, unlock the full function of mobile phone NFC, add amateur radio support, and optimize the kernel overall.
 
-- [DJY18-DJY19] Add openbts+c118 one-click pseudo base station configuration script, join GSM Sniff WEB GUI interface ###Complete progress percent 70#####
+- [DJY18-DJY19] Add openbts+c118 one-click pseudo base station configuration script, join GSM Sniff WEB GUI interface ###Complete progress percent 100#####
+
+- [DJY15-3] Fix nethunter app to remove kali.tar.xz error and add support for i386 amd64 arm64 chroot. Add a lot of firmware, update the WIFI firmware from 2008 to 2019, update the kernel code as a whole, add some common apks, update the terminal app, update the app toolchain, fix the update busybox is not properly installed, add boot animation (if necessary You can extract the WIFI archive to replace the system/media/bootanimation.zip file). The above code is all the latest code compiled using gcc 8.2.1 studio 3.5 canary7 test system: official OOS stable version and OOS beta 5
+
+- [DJY23] openbts5.0 has been compiled successfully. Now you can build a small GSM base station test network using 1 + 6 and 1 + 6T, support hackrf C118 RTL-SDR to send and receive content (can make calls and send text messages within the signal range, theoretical support, also supports USRP and limeSDR. But I don't have the relevant equipment so I can't test it.)
+
 
 # kernel_picture_and_video_demo_DJY11-13
 HID Attack
@@ -179,21 +184,21 @@ bootkali
 ```
 5、 If WIFITE and fluxion are not working properly, refer to https://www.bilibili.com/video/av45973380
 
-6、If kalifs-full.tar.xz does not work properly with the new nethunter app, please refer to the temporary solution below. I will fix the Nethunter app later.
+~~6、If kalifs-full.tar.xz does not work properly with the new nethunter app, please refer to the temporary solution below. I will fix the Nethunter app later。(already fixed)~~
 
-```
-adb push kalifs-full.tar.xz /sdcard/ 
+
+~~adb push kalifs-full.tar.xz /sdcard/ 
 adb shell
 su
 mv /sdcard/kalifs-full.tar.xz /data/local/nhsystem/
 cd /data/local/nhsystem/
 xz -d kalifs-full.tar.xz
-tar xvf kalifs-full.tar
-
-```
+tar xvf kalifs-full.tar~~
 
 
-# File_md5_and_hash
+
+
+# md5sum
 
 ```
 b4c66efc7fc076121997083a95bf8f96  com.google.zxing.client.android-4.7.7-107-1042.apk
