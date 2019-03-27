@@ -158,6 +158,9 @@ https://www.bilibili.com/video/av43617250
 - Wireless network card 722N
 https://www.bilibili.com/video/av45943180
 
+- Boot animation
+https://t.me/nethunter666/2688
+
 * Welcome to submit test screenshots and videos
 
 # FAQ

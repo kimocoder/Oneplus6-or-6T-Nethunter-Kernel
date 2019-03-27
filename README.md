@@ -156,6 +156,9 @@ https://www.bilibili.com/video/av43617250
 - 无线网卡722N
 https://www.bilibili.com/video/av45943180
 
+- 开机动画
+https://t.me/nethunter666/2688
+
 * 欢迎提交各类测试截图和视频
 
 # 常见问题解决
