@@ -282,6 +282,10 @@ https://gitlab.com/HolyAngel/op6
 
 https://github.com/draguve/droidducky-app
 
+这是我已经修复的内核源码，已修复HID和WIFI
+
+https://github.com/johanlike/-DJY-nethunter-kernel-source
+
 
 # 联系方式
 kali linux QQ交流群：712420808 （欢迎各种大佬萌新进群吹水）

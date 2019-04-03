@@ -281,6 +281,10 @@ Thanks to @rithvikvibhu for the Magisk WIFI module
 
 https://github.com/draguve/droidducky-app
 
+This is my kernel source code and can be downloaded if needed. HID and WIFI have been fixed
+
+https://github.com/johanlike/-DJY-nethunter-kernel-source
+
 # Contact_Information
 Kali linux QQ chat number: 712420808 (Welcome everyone join and communite to us)
 
