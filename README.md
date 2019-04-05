@@ -66,9 +66,9 @@ adb sideload DJY XXX.ZIP
 
 - [DJY18-DJY19] 添加openbts+c118 一键伪基站配置脚本，加入GSM Sniff WEB GUI界面 ###完成进度百分之100#####
 
-- [DJY15-3] 修复nethunter app删除kali.tar.xz错误并加入对 i386 amd64 arm64动chroot的支持。添加大量固件，将WIFI固件从2008更新到2019，内核代码整体更新编译，加入一些常用的apk，更新终端app,更新app工具链，修复更新busybox没正常安装问题，添加开机动画（如果有需要更改的可以解压WIFI压缩包替换system/media/bootanimation.zip 文件)。以上代码全是最新代码编译使用gcc 8.2.1 studio 3.5 canary7 测试系统：官方OOS稳定版和OOS beta 5-7。新增编译的最新HID攻击app，这个app可以不在chroot 安装kali的下使用HID攻击，但是需要内核支持。
+- [DJY15-3] 修复nethunter app删除kali.tar.xz错误并加入对 i386 amd64 arm64动chroot的支持。添加大量固件，将WIFI固件从2008更新到2019，内核代码整体更新编译，加入一些常用的apk，更新终端app,更新app工具链，修复更新busybox没正常安装问题，添加开机动画（如果有需要更改的可以解压WIFI压缩包替换system/media/bootanimation.zip 文件)。以上代码全是最新代码编译使用gcc 8.2.1 studio 3.5 canary7 测试系统：官方OOS稳定版和OOS beta 5-7。新增编译的最新HID攻击app，这个app可以不在chroot 安装kali的下使用HID攻击，但是需要内核支持。（现在已经完美支持 limeSDR HACKRF USRP UHD驱动检测）
 
-- [DJY23] openbts5.0 已经编译成功，现在可以使用1+6和1+6T 搭建小型GSM基站测试网络，支持hackrf C118 RTL-SDR 发射和接收内容（在信号范围内可以打电话发短信，理论上来讲还支持USRP和limeSDR，但是没设备无法测试）
+- [DJY23] openbts5.0 已经编译成功，现在可以使用1+6和1+6T 搭建小型GSM基站测试网络，支持hackrf C118 RTL-SDR 发射和接收内容 ~~（在信号范围内可以打电话发短信，理论上来讲还支持USRP和limeSDR，但是没设备无法测试）~~ (hackrf limeSDR USRP UHD 已经通过测试)
 
 # 内核图片和视频演示DJY11-13
 HID Attack
@@ -111,6 +111,21 @@ Wireless2
 
 ![pic](images/Wireless2.jpg)
 
+HACKRF-UHD
+
+![pic](images/hackrf-UHD.JPG)
+
+LimeSDR-UHD
+
+![pic](images/limesdr-UHD.jpg)
+
+USRP-UHD
+
+![pic](images/USRP-UHD.jpg)
+
+USRP1-UHD.jpg
+
+![pic](images/USRP1-UHD.jpg)
 
 
 # DJY15
@@ -158,6 +173,7 @@ https://www.bilibili.com/video/av45943180
 
 - 开机动画
 https://t.me/nethunter666/2688
+
 
 * 欢迎提交各类测试截图和视频
 

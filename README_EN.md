@@ -70,9 +70,9 @@ Note here that if you download arm64, amd64, i386 bit version of kalifs-full.tar
 
 - [DJY18-DJY19] Add openbts+c118 one-click pseudo base station configuration script, join GSM Sniff WEB GUI interface ###Complete progress percent 100#####
 
-- [DJY15-3] Fix nethunter app to remove kali.tar.xz error and add support for i386 amd64 arm64 chroot. Add a lot of firmware, update the WIFI firmware from 2008 to 2019, update the kernel code as a whole, add some common apks, update the terminal app, update the app toolchain, fix the update busybox is not properly installed, add boot animation (if necessary You can extract the WIFI archive to replace the system/media/bootanimation.zip file). The above code is all the latest code compiled using gcc 8.2.1 studio 3.5 canary7 test system: official OOS stable version and OOS beta 7。Newly compiled HID attack app, this app can use HID attacks without chroot installation kali, but requires kernel support.
+- [DJY15-3] Fix nethunter app to remove kali.tar.xz error and add support for i386 amd64 arm64 chroot. Add a lot of firmware, update the WIFI firmware from 2008 to 2019, update the kernel code as a whole, add some common apks, update the terminal app, update the app toolchain, fix the update busybox is not properly installed, add boot animation (if necessary You can extract the WIFI archive to replace the system/media/bootanimation.zip file). The above code is all the latest code compiled using gcc 8.2.1 studio 3.5 canary7 test system: official OOS stable version and OOS beta 7。Newly compiled HID attack app, this app can use HID attacks without chroot installation kali, but requires kernel support.(The hackrf limesdr USRP UHD test is now perfectly supported.)
 
-- [DJY23] openbts5.0 has been compiled successfully. Now you can build a small GSM base station test network using 1 + 6 and 1 + 6T, support hackrf C118 RTL-SDR to send and receive content (can make calls and send text messages within the signal range, theoretical support, also supports USRP and limeSDR. But I don't have the relevant equipment so I can't test it.)
+- [DJY23] openbts5.0 has been compiled successfully. Now you can build a small GSM base station test network using 1 + 6 and 1 + 6T, support hackrf C118 RTL-SDR to send and receive content ~~(can make calls and send text messages within the signal range, theoretical support, also supports USRP and limeSDR. But I don't have the relevant equipment so I can't test it.)~~( Hackrf limesdr usrp has been tested by UHD)
 
 
 # kernel_picture_and_video_demo_DJY11-13
@@ -115,6 +115,22 @@ Wireless1
 Wireless2
 
 ![pic](images/Wireless2.jpg)
+
+HACKRF-UHD
+
+![pic](images/hackrf-UHD.JPG)
+
+LimeSDR-UHD
+
+![pic](images/limesdr-UHD.jpg)
+
+USRP-UHD
+
+![pic](images/USRP-UHD.jpg)
+
+USRP1-UHD.jpg
+
+![pic](images/USRP1-UHD.jpg)
 
 # DJY15
 C118+osmcomb  One-click configuration script
