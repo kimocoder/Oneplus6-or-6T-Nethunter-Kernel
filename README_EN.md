@@ -128,7 +128,7 @@ USRP-UHD
 
 ![pic](images/USRP-UHD.jpg)
 
-USRP1-UHD.jpg
+USRP1-UHD
 
 ![pic](images/USRP1-UHD.jpg)
 
